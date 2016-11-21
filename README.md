@@ -10,5 +10,5 @@ The backgrounds are easily created from the demo files
 by using some tool that can edit PDFs like Inkscape.
 
 ![Diagonal stripes](https://github.com/ivan-cukic/latex-beamer-theme-elegance/raw/master/screenshots/theme-1.png)
-![Green stripes](https://github.com/ivan-cukic/latex-beamer-theme-elegance/raw/master/screenshots/theme-2.png)
 ![Plasma](https://github.com/ivan-cukic/latex-beamer-theme-elegance/raw/master/screenshots/theme-3.png)
+![Green stripes](https://github.com/ivan-cukic/latex-beamer-theme-elegance/raw/master/screenshots/theme-2.png)
