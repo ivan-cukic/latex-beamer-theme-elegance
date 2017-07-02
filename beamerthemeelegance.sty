@@ -6,11 +6,10 @@
 %                  GNU General Public License, version 3 or later
 % Description    : Customizable beamer theme
 
-\ProvidesPackage{beamerthemeelegance}[2013/05/05]
+\ProvidesPackage{beamerthemeelegance}[2017/07/01]
 
 \usepackage{eso-pic}
 \usepackage{etoolbox}
-\usepackage[default]{cantarell}
 % \setbeamercovered{transparent=60}
 
 \newif\if@doSans
@@ -304,6 +303,17 @@
     \mytempdimen=\wd\mytempbox\box\mytempbox\par\vskip1pt%
     \usebeamerfont{copyright text}{\usebeamercolor[fg]{copyright text}{\vbox{\hsize=\mytempdimen#3}}}\vskip3pt%
 }}
+
+%---------------------------------------------------------------------
+% Fonts
+%---------------------------------------------------------------------
+
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\setmainfont{Noto Sans}
+\setsansfont{Noto Sans}
+\setmonofont{Hack}
+
 
 \mode
 <all>
