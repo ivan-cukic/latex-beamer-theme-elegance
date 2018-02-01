@@ -1,5 +1,6 @@
-# Beamer theme Elegance
-Beamer theme based on HSRM with some nice configuration options
+# Beamer theme Elegance for LuaLaTeX
+
+Beamer theme for LuaLaTex based on HSRM with some nice configuration options
 
 # Theme examples
 
